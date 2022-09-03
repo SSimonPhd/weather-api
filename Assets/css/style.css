@@ -10,22 +10,22 @@ body {
 }
 
 h1 {
-	font-size: 48px;
+	font-size: 56px;
 	font-weight: 500;
 	margin: -10px;
 	padding: 10px
-}
+	}
 
 ul {
-    list-style: none;
+    	list-style: none;
 }
 
 li {
-    border: 1px solid #1b2838;
-    text-align: left;
-		margin: 2px;
-    padding-left: 10px;
-		font-size: 20px
+	border: 1px solid #1b2838;
+	text-align: left;
+	margin: 2px;
+	padding-left: 10px;
+	font-size: 20px
 }
 
 li:hover {
@@ -51,16 +51,16 @@ a:hover {
 }
 
 .card-title {
-    font-size: 25px;
-		font-weight: 600;
+    	font-size: 25px;
+	font-weight: 600;
 }
 
 .fiveDayColor {
-    padding: 20px;
-    background-color: #1b2838;
-    color: white;
-    float: left;
-    margin: 10px;
+	padding: 20px;
+	background-color: #1b2838;
+	color: white;
+	float: left;
+	margin: 10px;
 }
 
 /* Id selectors  */
@@ -70,5 +70,4 @@ a:hover {
 
 #button-addon2:hover {
 	color: white;
-
 }
