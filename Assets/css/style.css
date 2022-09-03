@@ -17,7 +17,7 @@ h1 {
 	}
 
 ul {
-    	list-style: none;
+  list-style: none;
 }
 
 li {
@@ -51,8 +51,8 @@ a:hover {
 }
 
 .card-title {
-    	font-size: 25px;
-	font-weight: 600;
+  font-size: 25px;
+	font-weight: 500;
 }
 
 .fiveDayColor {
