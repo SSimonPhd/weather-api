@@ -19,7 +19,7 @@ Build a weather dashboard API using javascript, bootstrap, jquery, and moment.js
 
 - Screenshot
 
-![image](https://user-images.githubusercontent.com/60651145/188259386-37f9c4f9-7e55-4532-b2e7-92b594103f3f.png)
+![image](https://user-images.githubusercontent.com/60651145/188993786-9852c1ef-9257-40da-b91d-9fbe93140d9e.png)
 
 - URL to deployed application:
 https://ssimonphd.github.io/weather-api/
