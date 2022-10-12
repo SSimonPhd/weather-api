@@ -1,6 +1,4 @@
-# 06 Weather API
-
-Module 6 challenge assignment:
+# Weather API
 
 Build a weather dashboard API using javascript, bootstrap, jquery, and moment.js
 
