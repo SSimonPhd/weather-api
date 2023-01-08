@@ -23,4 +23,4 @@ Build a weather dashboard API using javascript, bootstrap, jquery, and moment.js
 https://ssimonphd.github.io/weather-api/
 
 - URL to GitHub repo:
-https://github.com/SSimonPhd/weather-api
+https://github.com/SSimonPhd/weather-api 
